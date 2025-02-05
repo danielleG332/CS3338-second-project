@@ -1,0 +1,42 @@
+commit 5a7d8cbe73fe626b824fab76cad31debc945735f
+Merge: 4ffd237 7a22c3d
+Author: Danielle <dgarci332@calstatela.edu>
+Date:   Tue Feb 4 17:42:51 2025 -0800
+
+    Resolved merge conflict in index.html
+
+commit 7a22c3dc292742d3faf1e7bb926f45ee0dd37f89
+Author: Danielle <dgarci332@calstatela.edu>
+Date:   Tue Feb 4 17:35:54 2025 -0800
+
+    Added favorite game div to index.html
+
+commit 4ffd237224e7bcc30eb0ab482c3c36dcabc83066
+Author: Danielle <dgarci332@calstatela.edu>
+Date:   Tue Feb 4 17:35:00 2025 -0800
+
+    Added favorite food div to index.html
+
+commit 97f3397bd1e3c41484ff389aea20eada9b5116ce
+Author: danielleG332 <dgarci332@calstatela.edu>
+Date:   Fri Jan 31 11:50:41 2025 -0800
+
+    added favorite game to index.html
+
+commit f46e2a16ad439f809cb2520d4608cdf5b79497cf
+Author: Danielle <dgarci332@calstatela.edu>
+Date:   Fri Jan 31 11:09:38 2025 -0800
+
+    commit readme
+
+commit e0a3cf14284760e8a8320e30d641da31de9af6e2
+Author: danielleG332 <dgarci332@calstatela.edu>
+Date:   Fri Jan 31 10:53:13 2025 -0800
+
+    Updated index.html to include my name and hobby in the blanks
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
