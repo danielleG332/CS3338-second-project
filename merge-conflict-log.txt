@@ -1,1 +1,35 @@
-Merge conflict resolved
+* 48999a5 Added merge conflict log
+*   8518f2f Merge pull request #7 from danielleG332/danielsbranch
+|\  
+| *   ae34c6e Merge branch 'main' into danielsbranch
+| |\  
+| |/  
+|/|   
+* | 135f7f5 Update index.html
+| * 8b27f7e dan was here version3
+| * 6cd885f dan was here part 2
+| *   217478a Merge pull request #4 from danielleG332/main
+| |\  
+| |/  
+|/|   
+* |   c70e143 Merge pull request #3 from danielleG332/revert-2-danielsbranch
+|\ \  
+| * | 0bc4293 Revert "merge conflic pull"
+|/ /  
+* | 1e3dd46 Merge pull request #2 from danielleG332/danielsbranch
+|\| 
+| * 9a1e24c Updated with my presence
+|/  
+* cda647e Update index.html
+* e104209 Added git log and repository location
+*   5a7d8cb Resolved merge conflict in index.html
+|\  
+| * 7a22c3d Added favorite game div to index.html
+* | 4ffd237 Added favorite food div to index.html
+|/  
+| * 97f3397 added favorite game to index.html
+|/  
+* f46e2a1 commit readme
+| * e0a3cf1 Updated index.html to include my name and hobby in the blanks
+|/  
+* 1d2bfc0 Added index.html
